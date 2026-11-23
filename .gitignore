@@ -1,0 +1,18 @@
+# Secretos
+.env
+.env.*
+!.env.example
+contra_y_llave*.txt
+
+# Dependencias
+node_modules/
+
+# Binarios e instaladores
+*.exe
+*.msi
+*.zip
+
+# Sistema / editor
+.DS_Store
+Thumbs.db
+.vscode/
