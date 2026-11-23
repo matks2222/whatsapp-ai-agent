@@ -1,0 +1,17 @@
+{
+  "name": "whatsapp-ai-agent",
+  "version": "1.0.0",
+  "description": "Plantilla reutilizable: agente de WhatsApp con IA para negocios locales",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "axios": "^1.7.4",
+    "dotenv": "^16.4.5",
+    "@anthropic-ai/sdk": "^0.32.0"
+  }
+}
