@@ -8,6 +8,15 @@ Ejemplo incluido: **Cocina Lupe**, una cocina económica.
 
 **Stack:** Node.js · Express · WhatsApp Cloud API · Claude API (Anthropic)
 
+## Demo
+
+Conversación real de prueba con el bot (WhatsApp Cloud API + Claude):
+
+<p>
+  <img src="docs/conversacion-1.png" width="300" alt="Conversación de prueba 1 con el bot">
+  <img src="docs/conversacion-2.png" width="300" alt="Conversación de prueba 2 con el bot">
+</p>
+
 ## Cómo funciona
 
 ```
